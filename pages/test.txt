@@ -4,5 +4,5 @@ Normal text
 Ignored dollar ^$
 $Subsection$
 *BOLD*
-!Colored Text!
+*!Colored Text!*
 [Link](google.com)
