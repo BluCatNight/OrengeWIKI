@@ -1,0 +1,7 @@
+{Page Title}
+#Section#
+Normal text
+Ignored dollar ^$^
+$Subsection$
+*BOLD*
+[Link](google.com)
