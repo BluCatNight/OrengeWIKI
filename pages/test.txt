@@ -1,7 +1,9 @@
 {Page Title}
 #Section#
 Normal text `
+That was a line break.
 $Subsection$
 *BOLD*
 !Colored Text!
+*!BOLD AND COLOR W!*
 [Link|google.com)
