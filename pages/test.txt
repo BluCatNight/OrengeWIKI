@@ -1,8 +1,7 @@
 {Page Title}
 #Section#
-Normal text
-Ignored dollar ^$
+Normal text `
 $Subsection$
 *BOLD*
 !Colored Text!
-[Link](google.com)
+[Link|google.com)
